@@ -1,0 +1,30 @@
+{
+  "name": "NMNetwork",
+  "version": "0.1.0",
+  "summary": "A short description of NMNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/405029644@qq.com/NMNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "405029644@qq.com": "405029644@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/405029644@qq.com/NMNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NMNetwork/Classes/**/*",
+  "dependencies": {
+    "SwiftyJSON": [
+      "~> 4.1.0"
+    ],
+    "Moya": [
+      "~> 11.0"
+    ]
+  }
+}
